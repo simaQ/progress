@@ -1,8 +1,11 @@
 {
-  "name": "g2-progress",
+  "name": "progress",
   "version": "1.0.0",
-  "description": "",
-  "keywords": [],
+  "description": "Progress indicators implemented by G2.",
+  "keywords": [
+    "chart",
+    "progress"
+  ],
   "main": "src/index.tsx",
   "dependencies": {
     "react": "^16.12.0",
